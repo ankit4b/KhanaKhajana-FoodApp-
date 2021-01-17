@@ -7,4 +7,6 @@ This is a food app, that is basically design to find restaurants of our sorround
 
 React Native
 
-![caption](link to image / GIF)
+## Output 
+
+![caption](https://github.com/ankit4b/KhanaKhajana-FoodApp-/blob/main/output/foodapp.gif)
